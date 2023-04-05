@@ -1,4 +1,4 @@
-# conversor_binary-
+# conversor_binary
 Conversor binário que se utiliza reactJs
 
 Binário é o sistema numérico no qual todos os computadores digitais são baseados. Portanto, é importante que os desenvolvedores entendam a matemática binária ou de base 2. O objetivo do Bin2Dec é fornecer prática e compreensão de como os cálculos binários.
